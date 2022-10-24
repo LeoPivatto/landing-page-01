@@ -1,0 +1,179 @@
+body {
+  margin: 10px 195px;
+  max-width: 1200px;
+  background-color: #000235;
+  color: white;
+  font-family: robotomedium;
+}
+
+header {
+  font-family: poppinsmedium;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+}
+
+li {
+  display: inline-block;
+  margin: 0 30px;
+  color: white;
+  font-family: poppinslight;
+}
+
+ul {
+  position: relative;
+  left: 30px;
+}
+
+
+/* MAIN-HOME*/
+main {
+  margin-top: 90px;
+  width: 100%;
+}
+
+section {
+  display:flex;
+  flex-direction: row;
+  margin: 4rem 2rem;
+}
+
+p {
+  width: auto;
+  line-height: 30px;
+}
+
+span {
+  color: #8d86ff;
+}
+
+
+.item {
+  width: 26rem;
+  font-size: 24px;
+  font-weight:lighter;
+  margin-top: 60px;
+}
+
+.section1 {
+  position: relative;
+  left: 50px;
+}
+
+
+.section3 {
+  position: relative;
+  left: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 46px;
+  margin-bottom: -5px;
+  width: 500px;
+}
+
+
+/*IMAGES*/
+
+
+img {
+  width: 27rem;
+  margin-top: 40px;
+}
+
+.img1 {
+  position: relative;
+  left: 90px;
+} 
+
+#img1 {
+  width: 420px;
+}
+
+
+#img2 {
+  width: 450px;
+}
+
+.img2 {
+  position: relative;
+  right: 20px;
+}
+
+.img3 {
+  position: relative;
+  left: 40px;
+}
+
+#img3 {
+  width: 420px;
+}
+
+.container-get-acess {
+  background:linear-gradient(80deg,
+  #17C7FF 0%,#24A08A 100% 
+  );
+  height:270px;
+  width:1000px;
+  border-radius: 58px;
+  text-align: center;
+  padding:10px;
+}
+
+.clients h1 {
+  text-align: center;
+}
+
+.container-get-acess h3 {
+  color: black;
+  margin-top: 30px;
+  font-size: 22px;
+
+}
+
+.container-get-acess h1 {
+  font-size: 45px;
+  width: 100%;
+  text-align: center;
+  margin-top: -10px;
+}
+
+ .button1 {
+  background-color: #6C63FF;
+  color: white;
+  border-radius: 30px;
+  border: transparent;
+  height: 55px;
+  width: 167px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.button2 {
+  margin-top: 35px;
+  background-color: transparent;
+  color: white;
+  border-radius: 30px;
+  height: 58px;
+  width: 167px;
+  font-size: 22px;
+  border: #6C63FF 1px solid;
+  margin-left: 25px;
+  cursor: pointer;
+}
+
+
+.container-get-acess .button-get-access button {
+  background-color: black;
+  color: white;
+  border-radius: 25px;
+  height: 58px;
+  width: 167px;
+  font-size: 18px;
+  margin-top: -5px;
+  cursor:progress;
+}
+
