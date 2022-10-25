@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'poppinsextrabold' ;
-  src: url(../components/fonts/poppins/Poppins-ExtraBold.ttf);
+  src: url(/components/fonts/poppins/Poppins-ExtraBold.ttf);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'poppinsmedium' ;
-  src: url(../components/fonts/poppins/Poppins-Medium.ttf);
+  src: url(/components/fonts/poppins/Poppins-Medium.ttf);
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'poppinslight' ;
-  src: url(../components/fonts/poppins/Poppins-Light.ttf);
+  src: url(/components/fonts/poppins/Poppins-Light.ttf);
   font-weight: normal;
   font-style: normal;
 }
@@ -22,7 +22,7 @@
 
 @font-face {
   font-family: 'robotomedium' ;
-  src: url(../components/fonts/roboto/Roboto-Medium.ttf);
+  src: url(/components/fonts/roboto/Roboto-Medium.ttf);
   font-weight: normal;
   font-style: normal;
 }
@@ -30,7 +30,7 @@
 
 @font-face {
   font-family: 'robotoregular' ;
-  src: url(../components/fonts/roboto/Roboto-Regular.ttf);
+  src: url(/components/fonts/roboto/Roboto-Regular.ttf);
   font-weight: normal;
   font-style: normal;
 }
